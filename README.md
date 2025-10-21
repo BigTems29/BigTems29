@@ -49,7 +49,7 @@ My goal is to bridge creativity with logic, making technology feel human.
   <a href="https://motunrayoodeyemi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9b87f5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://x.com/yourhandle" target="_blank">
+  <a href="https://x.com/the_officialmoo" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/motunrayo-odeyemi-4555ab303" target="_blank">
